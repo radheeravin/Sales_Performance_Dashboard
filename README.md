@@ -1,6 +1,3 @@
-Got it — I tightened it up, made it punchier, and more "premium pitch" ready. Here's the modified version:
-
----
 
 # ⚡ AI Sales Performance Dashboard
 
